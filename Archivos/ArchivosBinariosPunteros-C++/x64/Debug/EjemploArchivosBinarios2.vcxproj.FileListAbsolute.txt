@@ -1,0 +1,2 @@
+C:\Users\Isaac\Documents\VisualStudioProjects\EjemploArchivosBinarios2\x64\Debug\EjemploArchivosBinarios2.exe
+C:\Users\XPC\Downloads\EjemploArchivosBinarios2\EjemploArchivosBinarios2\x64\Debug\EjemploArchivosBinarios2.exe
